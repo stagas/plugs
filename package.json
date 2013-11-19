@@ -1,0 +1,12 @@
+{
+  "name": "plugs",
+  "version": "0.0.1",
+  "description": "a generic plugin system",
+  "keywords": ["plugin", "use"],
+  "author": "stagas <gstagas@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": { "node": "*" }
+}
